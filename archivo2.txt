@@ -1,3 +1,1 @@
-He creado archivo 2 
-Listo
-Hemos creado una segunda  rama
+Esto es para un nuevo merge
